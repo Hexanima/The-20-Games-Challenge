@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The 20 Games Challenge", "The 20 Games Challenge.csproj", "{DB467B7C-66A9-4DC8-BEDE-A1C59E03DED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB467B7C-66A9-4DC8-BEDE-A1C59E03DED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB467B7C-66A9-4DC8-BEDE-A1C59E03DED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB467B7C-66A9-4DC8-BEDE-A1C59E03DED5}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{DB467B7C-66A9-4DC8-BEDE-A1C59E03DED5}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{DB467B7C-66A9-4DC8-BEDE-A1C59E03DED5}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{DB467B7C-66A9-4DC8-BEDE-A1C59E03DED5}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
